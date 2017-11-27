@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511766580 source:c:\users\nirvan dogra\documents\cprog\postfix_eval\main.c
+	<stdio.h>
+	<stdlib.h>
+
